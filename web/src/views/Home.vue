@@ -1,0 +1,31 @@
+<template>
+  <div>
+    <swiper>
+      <swiper-slide>
+        <img
+          class="w-100"
+          src="../images/14e4fde9d63be6456cc35ad3ff7b0ea2.jpeg"
+          alt=""
+        />
+      </swiper-slide>
+      <swiper-slide>
+        <img
+          class="w-100"
+          src="../images/5468852df51056609aa6de26079860f5.jpeg"
+          alt=""
+        />
+      </swiper-slide>
+      <swiper-slide>
+        <img
+          class="w-100"
+          src="../images/ec521eaa193daaca6a6752d2900e1680.jpeg"
+          alt=""
+        />
+      </swiper-slide>
+    </swiper>
+  </div>
+</template>
+
+<script>
+export default {};
+</script>
